@@ -1,0 +1,14 @@
+# Compile Object files
+*.obj
+*.crf
+*.d
+*.o
+*.hex
+*.dep
+*.htm
+*.lnp
+*.sct
+*.axf
+
+# Object Directories
+/OBJ
